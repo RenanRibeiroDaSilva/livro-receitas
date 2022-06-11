@@ -30,6 +30,6 @@
 
 3. Abaixe o fogo e coloque o creme de leite e mexa bem até se tornar um creme homogêneo.
 
-4. Esta pronto para servi!
+4. Esta pronto para servir!
 
 
