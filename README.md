@@ -15,3 +15,11 @@ Olá, bem vindo ao meu livro de receitas :wave:
 - Mousse de Limão :lemon:
 
 - Lasanha de Carne Moída :cut_of_meat:
+
+- Ovos mexidos :fried_egg:
+
+
+
+---
+
+_Hoje faço minha ultima inserção neste repositório, como dito acima, o intuito era aprender os comandos básicos do Git para o GitHub e vice versa. Acredito já ter dominado este principio base, mas os estudo continuarão ocorrendo em outros repositórios que também estarão disponiveis no meu GitHub._
