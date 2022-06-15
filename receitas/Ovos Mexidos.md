@@ -1,4 +1,4 @@
-# Ovos Mexiso :fried_egg:
+# Ovos Mexidos :fried_egg:
 
 ## Ingredientes
 
